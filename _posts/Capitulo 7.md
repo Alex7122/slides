@@ -33,18 +33,17 @@ permalink: /Capitulo 7/
         </a>
     </section>
     <section>
-        <h2>Basement Level 1</h2>
-        <p>Nested slides are useful for adding additional detail underneath a high level horizontal slide.</p>
+        <h2>Ejemplos de Medio guiado</h2>
+        <p><code>Cable de par cruzado</code>:Uno de los cables lleva la señal mientras que el otro se usa de referencia; <code>Cable coaxial</code>:Lleva señal de alta frecuencia; y <code>Cable de fibra optica</code>:Esta hecho de vidrio o plastico y transmite señales en forma de luz.</p>
     </section>
     <section>
-        <h2>Basement Level 2</h2>
-        <p>That's it, time to go back up.</p>
-        <br>
+        <h2>Ejemplos de Medio no guiado</h2>
+        <p></p>
         <a href="#/2">
-            <img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Up arrow" style="transform: rotate(180deg); -webkit-transform: rotate(180deg);">
         </a>
     </section>
 </section>
+
 
 <section>
     <h2>Slides</h2>
